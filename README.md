@@ -75,7 +75,7 @@ sns.barplot(xlabel, ylabel, data=df, palette="Paired").set_title(title)
 
 ```
 
-![PHOTO](BARGRAPH.PNG)
+![PHOTO](BAR GRAPH.PNG)
 
 
 ## References:
