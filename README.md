@@ -1,6 +1,6 @@
 # bigdatafinalproject
 ## About:
-- [Bhaskar Reddy Minupuri](https://github.com/Bhaskar2909)
+- [Bhaskharm](https://github.com/Bhaskar2909)
 ## Text:
 - [The Project Gutenberg EBook of Under the Law, by Edwina Stanton Babcock](https://www.gutenberg.org/files/48009/48009-0.txt)
 
